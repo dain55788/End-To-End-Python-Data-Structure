@@ -1,0 +1,2 @@
+2024-Jun-21-17:39:50 ETL Job Started
+2024-Jun-21-17:39:50 Extract phase Started
